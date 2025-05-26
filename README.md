@@ -16,4 +16,8 @@ I recently turned 18 and have lost motivation to code so sadly I think my time i
 
 Just wanted to say thank you to everyone who has stuck with me this whole time and this was a fun experience. Thank you to my friends who stuck with me through every project, success, and failure. To the community members who believed in us. To everyone who made this experience unforgettable. Thank you guys for everything.
 
+Special thanks to Tiva (github.com/itztiva) and Ploosh (github.com/plooshi)
+
+Thank you both for everything.
+
 With that being said I will probably be open sourcing all my code goodbye.
